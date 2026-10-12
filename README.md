@@ -8,3 +8,7 @@ While the project has, for better or for worse, been left-to-rot, It still funct
 Since the actual assets of the project seem to be too big to actually store ON github, I'll probably make a link accessible to download whatever's in the project so its easier to look at.
 
 What's compiled here is just the program code itself.
+
+The link to the zip-archive of the full program is as follows: https://drive.google.com/file/d/1xKsnSXx37Z_18cUwFjgsN3yIMg594lkW/view?usp=sharing (request access)
+
+This does come with an executable file located within "\JavaApplication1\dist"
